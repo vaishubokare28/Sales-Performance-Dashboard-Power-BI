@@ -67,10 +67,5 @@ The project uses the **Sample Superstore** dataset.
 
 ## 📷 Dashboard Preview
 
-> Add the dashboard screenshot below after uploading it to your repository.
+![Dashboard Review](https://github.com/vaishubokare28/Sales-Performance-Dashboard-Power-BI/blob/main/Sales%20Performance%20Dashboard.png)
 
-```markdown
-![Sales Performance Dashboard](https://github.com/vaishubokare28/Sales-Performance-Dashboard-Power-BI/blob/main/Sales%20Performance%20Dashboard.png)
-```
-
----
